@@ -28,6 +28,7 @@
     an uptick on the number of successful shows.Then again by fall time it started to go down. 
     So I think summer time was the most successful time for the campaign.    
 ![image_1](https://github.com/uramn/test_repo/blob/main/students/Theater_Outcome_vs_Launch.png)
+![](Theater_Outcome_vs_Launch.png)
     
 
 ### **Analysis of Outcomes Based on Goals**
